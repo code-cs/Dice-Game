@@ -1,4 +1,4 @@
-# Dicee-Game
+# Dice-Game
 Simple dice game using JavaScript and DOM.
 The game has two players. Using a random number generator between 1 to 6, which player gets more numbers wins the game,
 but if they get the same numbers they draw.
